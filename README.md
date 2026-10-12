@@ -1,31 +1,30 @@
-# Equity Research & Valuation
+# Equity Research | Reckitt Benckiser
 
-Independent equity research exploring company fundamentals, financial performance, valuation and investment opportunities.
+**Independent Financial & Strategic Analysis**
 
-## Research Reports
+## Overview
 
-This repository contains my equity research reports and supporting analysis.
+This project examines Reckitt Benckiser, a multinational consumer goods company operating across health, hygiene and nutrition markets.
 
-## Research Methodology
+The research explores the company's financial performance, business fundamentals, strategic positioning and exposure to financial and non-financial risks.
 
-Each report may examine:
+## Research Areas
 
-- **Business Overview:** Company operations, competitive positioning and industry dynamics.
-- **Financial Analysis:** Revenue, profitability, cash flow and balance sheet performance.
-- **Valuation:** Relevant financial multiples and valuation assumptions.
-- **Risk Assessment:** Company-specific, industry and macroeconomic risks.
-- **Investment Outlook:** Potential catalysts, scenarios and key uncertainties.
+- **Company Overview:** Business model, operating segments and competitive environment.
+- **Financial Performance:** Historical financial results and key financial indicators.
+- **Credit & Financial Risk:** Assessment of financial stability and credit-related considerations.
+- **ESG Analysis:** Environmental, social and governance factors relevant to the business.
+- **Geopolitical Risk:** External developments and their potential implications for operations and performance.
 
-## Reports
+## Research Report
 
-The research papers are available as PDFs in this repository.
-
-## Project Status
-
-Active — additional research and analysis may be added over time.
+The full Reckitt Benckiser research paper is available as a PDF in this repository.
 
 ## Author
 
-Youssef Chebbi
+**Youssef Chebbi**
 
-BSc Mathematics with Finance & Management, King's College London
+BSc Mathematics with Finance & Management  
+King's College London
+
+*Independent academic research project.*
