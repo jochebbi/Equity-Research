@@ -19,6 +19,9 @@ The research explores the company's financial performance, business fundamentals
 ## Research Report
 
 The full Reckitt Benckiser research paper is available as a PDF in this repository.
+## Research Report
+
+[View Full Reckitt Benckiser Research Report](Reckitt Benckiser Equity Report.pdf)
 
 ## Author
 
